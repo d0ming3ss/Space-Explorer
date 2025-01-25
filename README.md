@@ -3,13 +3,13 @@ Space Explorer to aplikacja internetowa stworzona w Vue.js, umożliwiająca eksp
 
 ## Funkcjonalności 🌌
 - **Astronomy Picture of the Day (APOD) 🌠**
-Użytkownicy mogą codziennie zobaczyć zdjęcie astronomiczne wraz z jego szczegółowym opisem dostarczanym przez NASA.
+  Użytkownicy mogą codziennie zobaczyć zdjęcie astronomiczne wraz z jego szczegółowym opisem dostarczanym przez NASA.
 
 - **Galeria Misji 🛰️**
-Aplikacja wyświetla losowe zdjęcia i opisy misji NASA, pozwalając na zgłębianie fascynujących szczegółów o badaniach kosmosu.
+  Aplikacja wyświetla losowe zdjęcia i opisy misji NASA, pozwalając na zgłębianie fascynujących szczegółów o badaniach kosmosu.
 
 - **Responsywny design 📱💻**
-Space Explorer działa płynnie na urządzeniach mobilnych i desktopowych, zapewniając wygodę użytkowania.
+  Space Explorer działa płynnie na urządzeniach mobilnych i desktopowych, zapewniając wygodę użytkowania.
 
 ## Technologie 🛠️
 - **Vue.js**: Framework frontendowy do tworzenia interfejsów użytkownika.
