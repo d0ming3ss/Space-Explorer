@@ -89,9 +89,8 @@ export default {
   line-height: 1.5;
 }
 
-/* Dodatkowe stylizowanie kontenera obrazków */
 .image-container {
-  text-align: center; /* Ustawia tekst i obrazek w centrum */
-  margin-bottom: 15px; /* Odstęp poniżej zdjęcia */
+  text-align: center;
+  margin-bottom: 15px;
 }
 </style>

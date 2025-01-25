@@ -10,7 +10,7 @@
 import MissionGallery from "../components/MissionGallery.vue";
 
 export default {
-  name: "MissionsView", // Zmieniona nazwa na wielowyrazową
+  name: "MissionsView",
   components: {
     MissionGallery,
   },
